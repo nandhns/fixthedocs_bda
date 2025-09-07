@@ -1,4 +1,5 @@
 **Fix the Docs**  : **Smarter, Faster, Maintainable Documentation for Real-World Dev Teams**
+
 **Figma Link** : (LINK HERE)
 
 ## Overview  
@@ -41,10 +42,10 @@ We tackle two major pain points:
 
 ##  Hackathon Focus  
 We're laser-focused on:  
- **Simplifying Writing**  
- **Speeding Up Reading**
+- **Simplifying Writing**  
+- **Speeding Up Reading**
 
 ---
 
-Builf for iFast, CodeNection 2025
+Built for iFast, CodeNection 2025
 By Battery Double A
