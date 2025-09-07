@@ -1,6 +1,6 @@
 **Fix the Docs**  : **Smarter, Faster, Maintainable Documentation for Real-World Dev Teams**
 
-**Figma Link** : (LINK HERE)
+**Figma Link** : https://www.figma.com/design/WyjBCBEavK6NLpC3u2oNwd/CodeNection-2025?node-id=0-1&t=kZAQ4aXO9LRinZlB-1
 
 ## Overview  
 In fast-moving software projects, documentation often falls behind. It's slow to write, hard to read, and painful to maintain. The result? Confusion, wasted time, and costly mistakes.
